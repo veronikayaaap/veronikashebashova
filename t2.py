@@ -1,0 +1,5 @@
+print("введите сторону a")
+a = int(input())
+print("введите сторону b")
+b = int(input())
+print((a + b) * 2)
